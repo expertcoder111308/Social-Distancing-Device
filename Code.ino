@@ -1,9 +1,8 @@
 /**********************************************************************************
- *  TITLE: Ultrasonic sensor HCSR04 and Arduino distance measurement (0.96" I2C OLED)
- *  Click on the following links to learn more. 
- *  YouTube Video: https://youtu.be/ajQh_uQ7nNI
- *  Related BLOG : https://easyelectronicsproject.com/arduino/ultrasonic-sensor-arduino-01
- *  by Tech StudyCell
+ *  Social Distancing Device
+ *  v1.0
+ *  Created by expertcoder111308
+ *  flamenco999 created readme
  **********************************************************************************/
 
 
