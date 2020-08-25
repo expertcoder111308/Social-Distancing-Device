@@ -11,4 +11,5 @@ How to use this Repository
 
 5.Turn on the device
 
-6. Attach it to Face Shield/Belt
+6.Attach it to Face Shield/Belt
+
