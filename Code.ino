@@ -25,7 +25,7 @@ const int greenLedPin = 13;
 const int buzzerPin = 12;
 
 // define Trigger Distance in CM
-const int trigDistance = 15; //change this value from 2 to 400
+const int trigDistance = 200; //change this value from 2 to 400
 
 // define variables
 long duration;
