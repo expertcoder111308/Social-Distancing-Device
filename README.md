@@ -1,15 +1,18 @@
 # Social-Distancing-Device v1.0
 How to use this Repository
 ----------------------------
-1.Clone this repository
+1.Click on tags.
 
-2.Paste code.ino into arduino
+2.Click on the latest release
 
-3.Upload the code onto arduino
+3.Download the source code as a 'zip' file, and unzip it
 
-4.Connect to circut.
+4.Open the file 'code.ino' with the Arduino IDE software
 
-5.Turn on the device
+5. Load the code onto the arduino
 
-6.Attach it to Face Shield/Belt
+6.ENJOY!!!
+
+---Materials/Instructions of Setup in the Wiki---
+
 
